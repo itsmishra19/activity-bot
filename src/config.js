@@ -2,5 +2,5 @@
 export const config = {
     token: process.env.TOKEN,
     isDev: true,
-    devGuilds: ["516073932009242624"]
+    devGuilds: ["508569508932354048"]
 };
