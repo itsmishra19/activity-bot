@@ -1,6 +1,6 @@
 {
     "name": "discord-bot-template",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "type": "module",
     "description": "An open-source discord bot template",
     "scripts": {
