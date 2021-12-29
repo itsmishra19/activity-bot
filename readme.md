@@ -1,5 +1,5 @@
-![Github Stars](https://img.shields.io/github/stars/redleague/discord-bot-template?style=for-the-badge&logo=appveyor)
-![GitHub issues](https://img.shields.io/github/issues-raw/redleague/discord-bot-template?style=for-the-badge&logo=appveyor)
+![Github Stars](https://img.shields.io/github/stars/hydrox19/activity-bot?style=for-the-badge&logo=appveyor)
+![GitHub issues](https://img.shields.io/github/issues-raw/hydrox19/activity-bot?style=for-the-badge&logo=appveyor)
 
 # About
 
