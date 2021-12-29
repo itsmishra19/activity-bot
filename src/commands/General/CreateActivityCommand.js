@@ -56,7 +56,7 @@ export class CreateActivityCommand extends BaseCommand {
 
         ctx.send({
             embeds: [
-                makeEmbed("info", `This is the invite link [Click here to join](https://discord.gg/${createInvite.code}) for activity \`${activityName}\``)
+                makeEmbed("info", `This is the invite link [click here to join](https://discord.gg/${createInvite.code}) for activity \`${activityName}\``)
             ]
         });
     }
