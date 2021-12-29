@@ -3,7 +3,7 @@
 
 # About
 
-An open-source discord-bot template which used Discord.js v13
+An open-source discord-bot to create activities like youtube-together using discord.js v13
 
 # Features 
 
