@@ -21,6 +21,8 @@ Recommended version Node.js 16.6.x
 > ```
 # Run
 
+> **If you are running the bot in development make sure to put the server Id in config.js**
+
 > Note: Make sure to rename the .env_example file to .env and fill up the credentials
 > For running the bot:
 > ```bash
